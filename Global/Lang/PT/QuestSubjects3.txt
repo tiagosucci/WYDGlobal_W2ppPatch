@@ -1,0 +1,5 @@
+351	FFFFFF	00	[Os 4 cristais]		
+355	FFFFFF	10	[Primeiro: Água]		
+355	FFFFFF	11	[Segundo: Vento]		
+355	FFFFFF	12	[Terceiro: Fogo]		
+355	FFFFFF	13	[Quarto: Terra]		

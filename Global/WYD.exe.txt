@@ -1,0 +1,6 @@
+Below are the calls you can make to access your added functions...
+
+Format style is: DLL Name::API Name->Call to API
+
+
+W2GlobalPatch.dll::_DllMain@12->call dword ptr [24ae238]

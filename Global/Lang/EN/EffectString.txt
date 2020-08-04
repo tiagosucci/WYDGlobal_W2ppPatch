@@ -1,0 +1,48 @@
+Slow
+Haste
+Dec.Res
+Power
+Dec.Avd
+Inc.Avd
+Dec.Aspd
+Jewel 
+Inc.Dam
+Dec.Dam
+Magic.Shield
+Dec.Def
+Assault
+Growth
+Inc.Skl
+Morph
+Aura.Life
+Mana.Control
+Immunity
+Poison
+Melee
+Thunder
+Elemental
+Rescue
+Protector
+Inc.Avd
+Frost
+Hide
+Soul
+Courage
+Coin.Armor
+Potion.Block
+Disguise
+Food
+Health
+Venom 
+Another.Soul
+Spirit.Change
+Exp
+faint
+Avoidance reduction
+Mystery Magic
+Anti Magic
+Can not move
+Freezing
+Flame of resistance
+bleeding
+The last resistance

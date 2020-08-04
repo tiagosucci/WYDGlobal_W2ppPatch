@@ -1,0 +1,991 @@
+Attacker(Soldado Merc, 14804, 2393, 1591, 1995, 1995, 8428) Targetbackup(Basilisco, 1995, 2405, 1559, 14804, 1995, 0) Target(Basilisco, 1995, 2405, 1559, 1995, 1995, 0)
+	index:24740 nome:Basilisco 
+	index:2000 nome:Basilisco Ifrit 
+	index:8093 nome:Dracorich 
+	index:1987 nome:Basilisco Ifrit 
+	index:14413 nome:Basilisco Ifrit 
+	index:15603 nome:Basilisco 
+	index:11433 nome:Basilisco Ifrit 
+	index:21158 nome:Dracorich 
+	index:22754 nome:Basilisco 
+	index:14414 nome:Basilisco 
+	index:17661 nome:Draco Lich 
+	index:14804 nome:Soldado Merc 
+	index:8428 nome:Draco Lich 
+	index:11216 nome:Basilisco 
+	index:1992 nome:Basilisco 
+	index:11215 nome:Dracorich 
+	index:14805 nome:Soldado Merc 
+	index:14806 nome:Soldado Merc 
+	index:1980 nome:Cap.Explor. 
+Attacker(Soldado Merc, 16194, 2394, 1594, 1990, 1990, 22754) Targetbackup(Draco Lich, 1990, 2398, 1564, 16194, 1990, 0) Target(Draco Lich, 1990, 2398, 1564, 1990, 1990, 0)
+	index:8428 nome:Draco Lich 
+	index:21158 nome:Dracorich 
+	index:17662 nome:Basilisco Ifrit 
+	index:14414 nome:Basilisco 
+	index:8093 nome:Dracorich 
+	index:17661 nome:Draco Lich 
+	index:15603 nome:Basilisco 
+	index:11434 nome:Dracorich 
+	index:22754 nome:Basilisco 
+	index:1992 nome:Basilisco 
+	index:11215 nome:Dracorich 
+	index:16194 nome:Soldado Merc 
+	index:11216 nome:Basilisco 
+	index:16191 nome:Soldado Merc 
+	index:16190 nome:Soldado Merc 
+	index:1980 nome:Cap.Explor. 
+	index:16192 nome:Soldado Merc 
+Attacker(Averest , 7608, 1703, 1817, 4, 4, 7874) Targetbackup(ZEDASERVAS, 4, 1707, 1834, 7608, 4, 8216) Target(ZEDASERVAS, 4, 1707, 1834, 4, 4, 8216)
+	index:8259 nome:Bruxa  
+	index:8258 nome:Combatente  
+	index:7607 nome:Bruxa  
+	index:7608 nome:Averest  
+	index:8024 nome:Averest  
+	index:7675 nome:Averest  
+	index:8127 nome:Guarda do Rei 
+	index:8192 nome:Feiticeira  
+	index:8128 nome:Feiticeira  
+	index:3374 nome:Averest  
+	index:8216 nome:Averest  
+	index:3375 nome:Feiticeira  
+	index:8153 nome:Guarda do Rei 
+	index:7759 nome:Guarda do Rei  
+	index:7874 nome:Guarda do Rei 
+	index:8074 nome:Guarda do Rei  
+	index:8191 nome:Guarda do Rei 
+	index:7528 nome:Averest  
+Attacker(Kefra, 14149, 2367, 3931, 14, 14, 9) Targetbackup(MiOjOoO, 14, 2388, 3932, 14149, 14, 14149) Target(MiOjOoO, 14, 2388, 3932, 14, 14, 14149)
+	index:14151 nome:Mago Negro 
+	index:5 nome:CRAZY 
+	index:14149 nome:Kefra 
+	index:9 nome:SpankaNooB 
+	index:14152 nome:Mago Negro 
+Attacker(Kefra, 14149, 2367, 3931, 2, 2, 1) Targetbackup(Sr-lMarechaL, 2, 2361, 3908, 14149, 2, 14149) Target(Sr-lMarechaL, 2, 2361, 3908, 2, 2, 14149)
+	index:5 nome:CRAZY 
+	index:1 nome:CherryGirl 
+	index:14149 nome:Kefra 
+	index:14152 nome:Mago Negro 
+Attacker(Kefra, 14149, 2367, 3931, 1, 1, 14) Targetbackup(CherryGirl, 1, 2350, 3944, 14149, 1, 14149) Target(CherryGirl, 1, 2350, 3944, 1, 1, 14149)
+	index:5 nome:CRAZY 
+	index:14149 nome:Kefra 
+	index:2 nome:Sr-lMarechaL 
+	index:14 nome:MiOjOoO 
+	index:14152 nome:Mago Negro 
+Attacker(Tigre^, 18796, 2259, 3866, 16453, 16453, 16632) Targetbackup(HorizonCropper, 16453, 2242, 3866, 18796, 16453, 16) Target(HorizonCropper, 16453, 2242, 3866, 16453, 16453, 16)
+	index:16389 nome:HorizonCropper 
+	index:18795 nome:Tigre^ 
+	index:18798 nome:Tigre^ 
+	index:16632 nome:Lich Crunt 
+	index:18796 nome:Tigre^ 
+	index:18799 nome:Tigre^ 
+	index:16 nome:ZEDASERVAS 
+	index:11 nome:lH2O 
+Attacker(Lich Crunt, 18942, 2206, 3869, 20121, 20121, 20124) Targetbackup(Tigre^, 20121, 2223, 3863, 18942, 20121, 18942) Target(Tigre^, 20121, 2223, 3863, 20121, 20121, 18942)
+	index:20122 nome:Tigre^ 
+	index:20123 nome:Tigre^ 
+	index:20124 nome:Tigre^ 
+	index:18942 nome:Lich Crunt 
+Attacker(Soldado Merc, 23525, 2391, 1591, 2, 2, 17617) Targetbackup(Biel, 2, 2119, 2126, 23525, 2, 4) Target(Biel, 2, 2119, 2126, 2, 2, 4)
+	index:18788 nome:Draco Lich 
+	index:10150 nome:Basilisco Ifrit 
+	index:8720 nome:Dracorich 
+	index:1990 nome:Basilisco Ifrit 
+	index:1995 nome:Basilisco 
+	index:2000 nome:Dracorich 
+	index:14949 nome:Basilisco Ifrit 
+	index:17645 nome:Basilisco Ifrit 
+	index:12960 nome:Basilisco 
+	index:23525 nome:Soldado Merc 
+	index:17617 nome:Basilisco Ifrit 
+	index:23329 nome:Draco Lich 
+	index:17618 nome:Basilisco 
+	index:23330 nome:Dracorich 
+	index:17620 nome:Basilisco 
+	index:9767 nome:Dracorich 
+	index:1994 nome:Basilisco 
+	index:9768 nome:Basilisco 
+	index:23526 nome:Soldado Merc 
+	index:14950 nome:Basilisco 
+	index:23527 nome:Soldado Merc 
+	index:1983 nome:Cap.Explor. 
+Attacker(Tigre^, 11377, 2133, 2149, 7, 7, 11) Targetbackup(-AN4RQU14-, 7, 1124, 3557, 11377, 7, 11376) Target(-AN4RQU14-, 7, 1124, 3557, 7, 7, 11376)
+	index:4 nome:Maldito 
+	index:11 nome:SpankaNooB 
+	index:11377 nome:Tigre^ 
+	index:11378 nome:Tigre^ 
+	index:11379 nome:Tigre^ 
+	index:11380 nome:Tigre^ 
+	index:2 nome:Biel 
+	index:11381 nome:Tigre^ 
+	index:11382 nome:Tigre^ 
+Attacker(Tigre^, 11382, 2133, 2151, 1, 1, 11) Targetbackup(Crowley, 1, 1688, 1614, 11382, 1, 7523) Target(Crowley, 1, 1688, 1614, 1, 1, 7523)
+	index:4 nome:Maldito 
+	index:11 nome:SpankaNooB 
+	index:11377 nome:Tigre^ 
+	index:11378 nome:Tigre^ 
+	index:11379 nome:Tigre^ 
+	index:11380 nome:Tigre^ 
+	index:2 nome:Biel 
+	index:11381 nome:Tigre^ 
+	index:11382 nome:Tigre^ 
+Attacker(Meio Orc   , 11540, 1122, 3552, 1, 1, 7) Targetbackup(Crowley, 1, 2095, 2102, 11540, 1, 7523) Target(Crowley, 1, 2095, 2102, 1, 1, 7523)
+	index:11539 nome:Meio Orc    
+	index:11232 nome:Meio Orc    
+	index:11243 nome:Meio Orc    
+	index:11239 nome:Meio Orc    
+	index:11240 nome:Meio Orc    
+	index:11541 nome:Meio Orc    
+	index:11540 nome:Meio Orc    
+	index:11545 nome:Meio Orc    
+	index:11537 nome:Meio Orc    
+	index:11244 nome:Meio Orc    
+	index:11234 nome:Meio Orc    
+	index:11536 nome:Meio Orc    
+	index:11231 nome:Meio Orc    
+	index:11242 nome:Meio Orc    
+	index:11538 nome:Meio Orc    
+	index:7 nome:-AN4RQU14- 
+	index:11542 nome:Meio Orc    
+	index:11233 nome:Meio Orc    
+	index:11543 nome:Meio Orc    
+	index:11238 nome:Meio Orc    
+	index:11547 nome:Meio Orc    
+	index:11544 nome:Meio Orc    
+	index:11245 nome:Meio Orc    
+	index:11546 nome:Meio Orc    
+	index:11548 nome:Meio Orc    
+Attacker(Cav Negro, 12667, 1304, 3552, 12960, 12960, 7) Targetbackup(Basilisco, 12960, 2382, 1589, 12667, 12960, 0) Target(Basilisco, 12960, 2382, 1589, 12960, 12960, 0)
+	index:12663 nome:Cav Negro 
+	index:12671 nome:Cav Negro 
+	index:12664 nome:Cav Negro 
+	index:12678 nome:Cav Negro 
+	index:12667 nome:Cav Negro 
+	index:12655 nome:Cav Negro 
+	index:12656 nome:Cav Negro 
+	index:12657 nome:Cav Negro 
+	index:12668 nome:Cav Negro 
+	index:12662 nome:Cav Negro 
+	index:12669 nome:Cav Negro 
+	index:12658 nome:Cav Negro 
+	index:12654 nome:Cav Negro 
+	index:12665 nome:Cav Negro 
+	index:12670 nome:Cav Negro 
+	index:12666 nome:Cav Negro 
+	index:12659 nome:Cav Negro 
+	index:7 nome:-AN4RQU14- 
+	index:12660 nome:Cav Negro 
+	index:12661 nome:Cav Negro 
+	index:12672 nome:Cav Negro 
+	index:12677 nome:Cav Negro 
+	index:12673 nome:Cav Negro 
+	index:12674 nome:Cav Negro 
+	index:12675 nome:Cav Negro 
+	index:12676 nome:Cav Negro 
+Attacker(Tauron Desert, 12793, 1306, 3483, 12960, 12960, 7) Targetbackup(Basilisco, 12960, 2386, 1579, 12793, 12960, 0) Target(Basilisco, 12960, 2386, 1579, 12960, 12960, 0)
+	index:12789 nome:Tauron Desert 
+	index:12790 nome:Tauron Desert 
+	index:12782 nome:Tauron Desert 
+	index:12794 nome:Tauron Desert 
+	index:12788 nome:Tauron Desert 
+	index:12777 nome:Tauron Desert 
+	index:12781 nome:Tauron Desert 
+	index:12784 nome:Tauron Desert 
+	index:12775 nome:Tauron Desert 
+	index:12785 nome:Tauron Desert 
+	index:12773 nome:Tauron Desert 
+	index:12774 nome:Tauron Desert 
+	index:12786 nome:Tauron Desert 
+	index:12783 nome:Tauron Desert 
+	index:12787 nome:Tauron Desert 
+	index:12795 nome:Tauron Desert 
+	index:12772 nome:Tauron Desert 
+	index:12776 nome:Tauron Desert 
+	index:12780 nome:Tauron Desert 
+	index:7 nome:-AN4RQU14- 
+	index:12778 nome:Tauron Desert 
+	index:12779 nome:Tauron Desert 
+	index:12791 nome:Tauron Desert 
+	index:12792 nome:Tauron Desert 
+	index:12793 nome:Tauron Desert 
+Attacker(Tigre^, 13613, 2126, 2146, 3, 3, 13624) Targetbackup(-OlhaOTchan, 3, 2132, 2106, 13613, 3, 2) Target(-OlhaOTchan, 3, 2132, 2106, 3, 3, 2)
+	index:3789 nome:Gate Keeper 
+	index:3788 nome:Gate Keeper 
+	index:13619 nome:Condor^ 
+	index:13620 nome:Condor^ 
+	index:13621 nome:Condor^ 
+	index:4 nome:Maldito 
+	index:13622 nome:Condor^ 
+	index:13623 nome:Condor^ 
+	index:13624 nome:Condor^ 
+	index:5 nome:N3R0 
+	index:13613 nome:Tigre^ 
+	index:13614 nome:Tigre^ 
+	index:13615 nome:Tigre^ 
+	index:13616 nome:Tigre^ 
+	index:2 nome:Biel 
+	index:13617 nome:Tigre^ 
+	index:13618 nome:Tigre^ 
+	index:3790 nome:Martin 
+	index:11 nome:SpankaNooB 
+Attacker(Tigre^, 16448, 2130, 2144, 14949, 14949, 8) Targetbackup(Basilisco Ifrit, 14949, 2396, 1586, 16448, 14949, 0) Target(Basilisco Ifrit, 14949, 2396, 1586, 14949, 14949, 0)
+	index:3788 nome:Gate Keeper 
+	index:16443 nome:Tigre^ 
+	index:16444 nome:Tigre^ 
+	index:16446 nome:Tigre^ 
+	index:16445 nome:Tigre^ 
+	index:16447 nome:Tigre^ 
+	index:16448 nome:Tigre^ 
+	index:2 nome:Biel 
+	index:8 nome:Godzin 
+	index:4 nome:Maldito 
+	index:7 nome:SpankaNooB 
+	index:3790 nome:Martin 
+	index:5 nome:N3R0 
+Attacker(Soldado Merc, 16514, 2392, 1593, 3, 3, 14950) Targetbackup(-OlhaOTchan, 3, 2132, 2106, 16514, 3, 2) Target(-OlhaOTchan, 3, 2132, 2106, 3, 3, 2)
+	index:12194 nome:Basilisco Ifrit 
+	index:17619 nome:Draco Lich 
+	index:17645 nome:Basilisco Ifrit 
+	index:9768 nome:Basilisco 
+	index:1995 nome:Basilisco 
+	index:12195 nome:Basilisco 
+	index:23330 nome:Dracorich 
+	index:23329 nome:Draco Lich 
+	index:1994 nome:Basilisco 
+	index:14949 nome:Basilisco Ifrit 
+	index:16514 nome:Soldado Merc 
+	index:14950 nome:Basilisco 
+	index:1983 nome:Cap.Explor. 
+	index:16511 nome:Soldado Merc 
+Attacker(Soldado Merc, 24847, 2393, 1593, 9, 9, 17421) Targetbackup(I-PANDA-I, 9, 2098, 2099, 24847, 9, 3821) Target(I-PANDA-I, 9, 2098, 2099, 9, 9, 3821)
+	index:19856 nome:Basilisco 
+	index:12194 nome:Basilisco Ifrit 
+	index:19855 nome:Dracorich 
+	index:1991 nome:Dracorich 
+	index:2001 nome:Dracorich 
+	index:12195 nome:Basilisco 
+	index:23329 nome:Draco Lich 
+	index:17645 nome:Basilisco Ifrit 
+	index:21916 nome:Basilisco 
+	index:17421 nome:Basilisco Ifrit 
+	index:17422 nome:Basilisco 
+	index:23330 nome:Dracorich 
+	index:24847 nome:Soldado Merc 
+	index:1995 nome:Basilisco 
+	index:24848 nome:Soldado Merc 
+	index:1983 nome:Cap.Explor. 
+Attacker(Tigre^, 7860, 2124, 2144, 7875, 7875, 3) Targetbackup(Chefe Amon Inf, 7875, 3411, 1437, 7860, 7875, 17436) Target(Chefe Amon Inf, 7875, 3411, 1437, 7875, 7875, 17436)
+	index:3789 nome:Gate Keeper 
+	index:3788 nome:Gate Keeper 
+	index:19 nome:Sr-lMarechaL 
+	index:3 nome:Like 
+	index:15 nome:TK-MAGO 
+	index:7863 nome:Tigre^ 
+	index:7861 nome:Tigre^ 
+	index:2 nome:Biel 
+	index:7862 nome:Tigre^ 
+	index:7860 nome:Tigre^ 
+	index:12 nome:ETAPORRA 
+	index:3790 nome:Martin 
+	index:7 nome:StarOonee 
+	index:11 nome:-OlhaAOnda 
+Attacker(Soldado Merc, 9758, 2391, 1592, 1990, 1990, 17421) Targetbackup(Basilisco Ifrit, 1990, 2383, 1574, 9758, 1990, 0) Target(Basilisco Ifrit, 1990, 2383, 1574, 1990, 1990, 0)
+	index:19856 nome:Basilisco 
+	index:10150 nome:Basilisco Ifrit 
+	index:12195 nome:Basilisco 
+	index:12194 nome:Basilisco Ifrit 
+	index:2001 nome:Dracorich 
+	index:1994 nome:Basilisco 
+	index:8719 nome:Basilisco Ifrit 
+	index:23329 nome:Draco Lich 
+	index:9768 nome:Basilisco 
+	index:9760 nome:Soldado Merc 
+	index:9758 nome:Soldado Merc 
+	index:17422 nome:Basilisco 
+	index:23330 nome:Dracorich 
+	index:17620 nome:Basilisco 
+	index:17645 nome:Basilisco Ifrit 
+	index:17421 nome:Basilisco Ifrit 
+	index:9759 nome:Soldado Merc 
+	index:1991 nome:Dracorich 
+	index:1995 nome:Basilisco 
+	index:1983 nome:Cap.Explor. 
+	index:9757 nome:Soldado Merc 
+Attacker(Tigre^, 10682, 2129, 2146, 1, 1, 7) Targetbackup(BlackFurias, 1, 2094, 2100, 10682, 1, 5) Target(BlackFurias, 1, 2094, 2100, 1, 1, 5)
+	index:3788 nome:Gate Keeper 
+	index:10564 nome:Tigre^ 
+	index:10548 nome:Tigre^ 
+	index:10547 nome:Tigre^ 
+	index:19 nome:Sr-lMarechaL 
+	index:8 nome:1620 
+	index:12 nome:ETAPORRA 
+	index:7 nome:CherryGirl 
+	index:3 nome:Like 
+	index:9 nome:-OlhaOTchan 
+	index:10546 nome:Tigre^ 
+	index:10682 nome:Tigre^ 
+	index:10683 nome:Tigre^ 
+	index:4 nome:Maldito 
+	index:15 nome:MiOjOoO 
+	index:2 nome:Biel 
+	index:3790 nome:Martin 
+Attacker(Tigre^, 11244, 2130, 2145, 7, 7, 8) Targetbackup(CherryGirl, 7, 2126, 2124, 11244, 7, 6) Target(CherryGirl, 7, 2126, 2124, 7, 7, 6)
+	index:3788 nome:Gate Keeper 
+	index:2 nome:Biel 
+	index:11241 nome:Tigre^ 
+	index:11242 nome:Tigre^ 
+	index:11243 nome:Tigre^ 
+	index:11244 nome:Tigre^ 
+	index:15 nome:MiOjOoO 
+	index:11240 nome:Tigre^ 
+	index:12 nome:ETAPORRA 
+	index:8 nome:1620 
+	index:3 nome:Like 
+	index:3790 nome:Martin 
+	index:6 nome:M-o-N-s-T-e- 
+Attacker(Tigre^, 11241, 2129, 2144, 7, 7, 8) Targetbackup(CherryGirl, 7, 2119, 2124, 11241, 7, 6) Target(CherryGirl, 7, 2119, 2124, 7, 7, 6)
+	index:3788 nome:Gate Keeper 
+	index:2 nome:Biel 
+	index:11241 nome:Tigre^ 
+	index:11242 nome:Tigre^ 
+	index:11243 nome:Tigre^ 
+	index:11244 nome:Tigre^ 
+	index:15 nome:MiOjOoO 
+	index:11240 nome:Tigre^ 
+	index:12 nome:ETAPORRA 
+	index:8 nome:1620 
+	index:3 nome:Like 
+	index:3790 nome:Martin 
+	index:6 nome:M-o-N-s-T-e- 
+Attacker(Tigre^, 13066, 2125, 2145, 1, 1, 7) Targetbackup(xRedL4BEL, 1, 2456, 2017, 13066, 1, 5) Target(xRedL4BEL, 1, 2456, 2017, 1, 1, 5)
+	index:3789 nome:Gate Keeper 
+	index:3788 nome:Gate Keeper 
+	index:13062 nome:Tigre^ 
+	index:13061 nome:Tigre^ 
+	index:13065 nome:Tigre^ 
+	index:4 nome:Maldito 
+	index:13064 nome:Tigre^ 
+	index:13066 nome:Tigre^ 
+	index:13063 nome:Tigre^ 
+	index:2 nome:Biel 
+	index:7 nome:CherryGirl 
+	index:3790 nome:Martin 
+Attacker(Tigre^, 13534, 2126, 2143, 7, 7, 17) Targetbackup(CherryGirl, 7, 1042, 1719, 13534, 7, 2) Target(CherryGirl, 7, 1042, 1719, 7, 7, 2)
+	index:3789 nome:Gate Keeper 
+	index:3788 nome:Gate Keeper 
+	index:13362 nome:Tigre^ 
+	index:13361 nome:Tigre^ 
+	index:13533 nome:Tigre^ 
+	index:13534 nome:Tigre^ 
+	index:13359 nome:Tigre^ 
+	index:13364 nome:Tigre^ 
+	index:2 nome:Biel 
+	index:4 nome:Maldito 
+	index:17 nome:Eythor 
+	index:13363 nome:Tigre^ 
+	index:19 nome:Skoll 
+	index:3790 nome:Martin 
+Attacker(Soldado Merc, 13537, 2395, 1594, 7, 7, 17422) Targetbackup(CherryGirl, 7, 2140, 2152, 13537, 7, 2) Target(CherryGirl, 7, 2140, 2152, 7, 7, 2)
+	index:1990 nome:Basilisco Ifrit 
+	index:12195 nome:Basilisco 
+	index:1991 nome:Dracorich 
+	index:19856 nome:Basilisco 
+	index:8719 nome:Basilisco Ifrit 
+	index:2001 nome:Dracorich 
+	index:10150 nome:Basilisco Ifrit 
+	index:23329 nome:Draco Lich 
+	index:23330 nome:Dracorich 
+	index:17422 nome:Basilisco 
+	index:12561 nome:Basilisco Ifrit 
+	index:13537 nome:Soldado Merc 
+	index:9768 nome:Basilisco 
+	index:1994 nome:Basilisco 
+	index:13535 nome:Soldado Merc 
+	index:12562 nome:Basilisco 
+	index:1983 nome:Cap.Explor. 
+Attacker(Tigre^, 13781, 2131, 2146, 1, 1, 4) Targetbackup(xRedL4BEL, 1, 2090, 2103, 13781, 1, 5) Target(xRedL4BEL, 1, 2090, 2103, 1, 1, 5)
+	index:3788 nome:Gate Keeper 
+	index:4 nome:Maldito 
+	index:13776 nome:Tigre^ 
+	index:13777 nome:Tigre^ 
+	index:7 nome:CherryGirl 
+	index:13779 nome:Tigre^ 
+	index:13781 nome:Tigre^ 
+	index:17 nome:Eythor 
+	index:2 nome:Biel 
+	index:12 nome:ETAPORRA 
+	index:3790 nome:Martin 
+	index:3 nome:Like 
+	index:19 nome:Skoll 
+Attacker(Tigre^, 13777, 2140, 2144, 4, 4, 7) Targetbackup(Maldito, 4, 2120, 2144, 13777, 4, 2) Target(Maldito, 4, 2120, 2144, 4, 4, 2)
+	index:13777 nome:Tigre^ 
+	index:3 nome:Like 
+	index:13781 nome:Tigre^ 
+	index:2 nome:Biel 
+	index:17 nome:Eythor 
+	index:7 nome:CherryGirl 
+	index:12 nome:ETAPORRA 
+	index:19 nome:Skoll 
+	index:13776 nome:Tigre^ 
+Attacker(Soldado Merc, 15722, 2392, 1592, 3, 3, 12561) Targetbackup(Like, 3, 2123, 2142, 15722, 3, 18) Target(Like, 3, 2123, 2142, 3, 3, 18)
+	index:1993 nome:Draco Lich 
+	index:21916 nome:Basilisco 
+	index:1990 nome:Basilisco Ifrit 
+	index:17645 nome:Basilisco Ifrit 
+	index:2001 nome:Dracorich 
+	index:19856 nome:Basilisco 
+	index:17620 nome:Basilisco 
+	index:9768 nome:Basilisco 
+	index:14282 nome:Basilisco 
+	index:8719 nome:Basilisco Ifrit 
+	index:23329 nome:Draco Lich 
+	index:12562 nome:Basilisco 
+	index:14281 nome:Basilisco Ifrit 
+	index:12561 nome:Basilisco Ifrit 
+	index:19855 nome:Dracorich 
+	index:15722 nome:Soldado Merc 
+	index:1994 nome:Basilisco 
+	index:1991 nome:Dracorich 
+	index:15723 nome:Soldado Merc 
+	index:15724 nome:Soldado Merc 
+	index:1983 nome:Cap.Explor. 
+Attacker(Tigre^, 16902, 2121, 2146, 8, 8, 4) Targetbackup(1620, 8, 2092, 2104, 16902, 8, 3) Target(1620, 8, 2092, 2104, 8, 8, 3)
+	index:3789 nome:Gate Keeper 
+	index:3788 nome:Gate Keeper 
+	index:15 nome:MiOjOoO 
+	index:3787 nome:Balmus 
+	index:13 nome:lH2O 
+	index:16899 nome:Tigre^ 
+	index:18 nome:I-PANDA-I 
+	index:16900 nome:Tigre^ 
+	index:2 nome:Biel 
+	index:16901 nome:Tigre^ 
+	index:3 nome:Like 
+	index:16 nome:SoEu 
+	index:16902 nome:Tigre^ 
+	index:16903 nome:Tigre^ 
+	index:16904 nome:Tigre^ 
+	index:12 nome:ETAPORRA 
+	index:16898 nome:Tigre^ 
+	index:7 nome:CherryGirl 
+	index:4 nome:Maldito 
+	index:24 nome:StarOonee 
+	index:3790 nome:Martin 
+Attacker(Feiticeira, 3386, 1728, 1573, 16, 16, 3385) Targetbackup(SoEu, 16, 2099, 2103, 3386, 16, 3385) Target(SoEu, 16, 2099, 2103, 16, 16, 3385)
+	index:7652 nome:Feiticeira 
+	index:7651 nome:Cav. Real 
+	index:3384 nome:Feiticeira 
+	index:3383 nome:Cav. Real 
+	index:14316 nome:Averest 
+	index:7370 nome:Averest 
+	index:3385 nome:Cav. Real 
+	index:3386 nome:Feiticeira 
+	index:7548 nome:Torre Guardia 
+	index:7987 nome:Feiticeira 
+	index:7989 nome:Feiticeira 
+	index:7986 nome:Cav. Real 
+	index:5723 nome:Averest 
+	index:7988 nome:Cav. Real 
+	index:7741 nome:Averest 
+Attacker(Soldado Merc, 11537, 2392, 1593, 7, 7, 23027) Targetbackup(ZEDASERVAS, 7, 2122, 2148, 11537, 7, 1) Target(ZEDASERVAS, 7, 2122, 2148, 7, 7, 1)
+	index:10150 nome:Basilisco Ifrit 
+	index:21916 nome:Basilisco 
+	index:8719 nome:Basilisco Ifrit 
+	index:17644 nome:Draco Lich 
+	index:23330 nome:Dracorich 
+	index:2000 nome:Dracorich 
+	index:17645 nome:Basilisco Ifrit 
+	index:23329 nome:Draco Lich 
+	index:14281 nome:Basilisco Ifrit 
+	index:14282 nome:Basilisco 
+	index:23028 nome:Basilisco 
+	index:23027 nome:Basilisco Ifrit 
+	index:11537 nome:Soldado Merc 
+	index:9768 nome:Basilisco 
+	index:1991 nome:Dracorich 
+	index:1994 nome:Basilisco 
+	index:16087 nome:Basilisco 
+	index:1983 nome:Cap.Explor. 
+	index:11538 nome:Soldado Merc 
+Attacker(Tigre^, 13127, 2131, 2145, 13199, 13199, 2) Targetbackup(Chefe Amon Inf, 13199, 3408, 1437, 13127, 13199, 13200) Target(Chefe Amon Inf, 13199, 3408, 1437, 13199, 13199, 13200)
+	index:3788 nome:Gate Keeper 
+	index:13124 nome:Tigre^ 
+	index:15 nome:Biel 
+	index:9 nome:-OlhaOTchan 
+	index:13122 nome:Tigre^ 
+	index:13126 nome:Tigre^ 
+	index:13121 nome:Tigre^ 
+	index:13127 nome:Tigre^ 
+	index:3 nome:StarOonee 
+	index:13123 nome:Tigre^ 
+	index:13125 nome:Tigre^ 
+	index:16 nome:SoEu 
+	index:2 nome:Maldito 
+	index:1 nome:GreenKING 
+	index:7 nome:ZEDASERVAS 
+	index:3790 nome:Martin 
+	index:26 nome:Cavalinho- 
+Attacker(Averest , 13536, 1708, 1827, 8719, 8719, 12950) Targetbackup(Basilisco Ifrit, 8719, 2384, 1586, 13536, 8719, 0) Target(Basilisco Ifrit, 8719, 2384, 1586, 8719, 8719, 0)
+	index:9317 nome:Averest  
+	index:12829 nome:Averest  
+	index:13276 nome:Bruxa  
+	index:12993 nome:Combatente  
+	index:12994 nome:Bruxa  
+	index:13275 nome:Combatente  
+	index:16854 nome:Feiticeira  
+	index:16853 nome:Averest  
+	index:17827 nome:Combatente  
+	index:3365 nome:Averest  
+	index:9557 nome:Combatente  
+	index:15834 nome:Guarda do Rei 
+	index:15142 nome:Guarda do Rei 
+	index:15863 nome:Feiticeira  
+	index:15862 nome:Guarda do Rei 
+	index:12950 nome:Guarda do Rei 
+	index:12178 nome:Averest  
+	index:16237 nome:Guarda do Rei  
+	index:18032 nome:Guarda do Rei 
+	index:17404 nome:Guarda do Rei  
+	index:13536 nome:Averest  
+	index:17008 nome:Averest  
+	index:3367 nome:Guarda do Rei  
+Attacker(Soldado Merc, 13532, 2386, 1596, 7, 7, 14282) Targetbackup(ZEDASERVAS, 7, 2122, 2148, 13532, 7, 1) Target(ZEDASERVAS, 7, 2122, 2148, 7, 7, 1)
+	index:16087 nome:Basilisco 
+	index:23330 nome:Dracorich 
+	index:23329 nome:Draco Lich 
+	index:23027 nome:Basilisco Ifrit 
+	index:19856 nome:Basilisco 
+	index:17645 nome:Basilisco Ifrit 
+	index:2000 nome:Dracorich 
+	index:14282 nome:Basilisco 
+	index:16086 nome:Dracorich 
+	index:23028 nome:Basilisco 
+	index:1991 nome:Dracorich 
+	index:13532 nome:Soldado Merc 
+	index:1995 nome:Basilisco 
+	index:1983 nome:Cap.Explor. 
+	index:13533 nome:Soldado Merc 
+Attacker(Dracorich, 14390, 2386, 1588, 4, 4, 14250) Targetbackup(--CrowleY--, 4, 2099, 2099, 14390, 4, 17404) Target(--CrowleY--, 4, 2099, 2099, 4, 4, 17404)
+	index:1994 nome:Basilisco 
+	index:1993 nome:Draco Lich 
+	index:14389 nome:Draco Lich 
+	index:10150 nome:Basilisco Ifrit 
+	index:23027 nome:Basilisco Ifrit 
+	index:14390 nome:Dracorich 
+	index:21916 nome:Basilisco 
+	index:19856 nome:Basilisco 
+	index:2000 nome:Dracorich 
+	index:16087 nome:Basilisco 
+	index:21915 nome:Draco Lich 
+	index:14250 nome:Soldado Merc 
+	index:17644 nome:Draco Lich 
+	index:18788 nome:Draco Lich 
+	index:14282 nome:Basilisco 
+	index:14062 nome:Dracorich 
+	index:16086 nome:Dracorich 
+	index:14061 nome:Basilisco Ifrit 
+	index:9768 nome:Basilisco 
+	index:23028 nome:Basilisco 
+	index:1990 nome:Basilisco Ifrit 
+	index:1995 nome:Basilisco 
+Attacker(Soldado Merc, 21043, 2386, 1596, 13, 13, 16086) Targetbackup(T-VeronicA, 13, 2140, 2146, 21043, 13, 7762) Target(T-VeronicA, 13, 2140, 2146, 13, 13, 7762)
+	index:1994 nome:Basilisco 
+	index:14390 nome:Dracorich 
+	index:23027 nome:Basilisco Ifrit 
+	index:17645 nome:Basilisco Ifrit 
+	index:1995 nome:Basilisco 
+	index:14775 nome:Basilisco 
+	index:16087 nome:Basilisco 
+	index:21042 nome:Soldado Merc 
+	index:14062 nome:Dracorich 
+	index:16086 nome:Dracorich 
+	index:16831 nome:Basilisco 
+	index:21043 nome:Soldado Merc 
+	index:16830 nome:Basilisco Ifrit 
+	index:23028 nome:Basilisco 
+	index:1983 nome:Cap.Explor. 
+	index:21040 nome:Soldado Merc 
+Attacker(Soldado Merc, 6254, 2392, 1593, 4, 4, 24316) Targetbackup(CRAZY, 4, 2093, 2100, 6254, 4, 1) Target(CRAZY, 4, 2093, 2100, 4, 4, 1)
+	index:10150 nome:Basilisco Ifrit 
+	index:16830 nome:Basilisco Ifrit 
+	index:21646 nome:Basilisco 
+	index:21645 nome:Dracorich 
+	index:16831 nome:Basilisco 
+	index:1994 nome:Basilisco 
+	index:14390 nome:Dracorich 
+	index:14389 nome:Draco Lich 
+	index:8719 nome:Basilisco Ifrit 
+	index:6254 nome:Soldado Merc 
+	index:2000 nome:Dracorich 
+	index:24316 nome:Basilisco 
+	index:24315 nome:Basilisco Ifrit 
+	index:6232 nome:Soldado Merc 
+	index:1983 nome:Cap.Explor. 
+Attacker(Soldado Merc, 6438, 2393, 1592, 16087, 16087, 24316) Targetbackup(Basilisco, 16087, 2401, 1564, 6438, 16087, 0) Target(Basilisco, 16087, 2401, 1564, 16087, 16087, 0)
+	index:1993 nome:Draco Lich 
+	index:1990 nome:Basilisco Ifrit 
+	index:14061 nome:Basilisco Ifrit 
+	index:16830 nome:Basilisco Ifrit 
+	index:2000 nome:Dracorich 
+	index:14390 nome:Dracorich 
+	index:16831 nome:Basilisco 
+	index:14389 nome:Draco Lich 
+	index:8719 nome:Basilisco Ifrit 
+	index:24315 nome:Basilisco Ifrit 
+	index:24316 nome:Basilisco 
+	index:6438 nome:Soldado Merc 
+	index:21915 nome:Draco Lich 
+	index:14775 nome:Basilisco 
+	index:1994 nome:Basilisco 
+	index:21646 nome:Basilisco 
+	index:1995 nome:Basilisco 
+	index:6435 nome:Soldado Merc 
+	index:1983 nome:Cap.Explor. 
+Attacker(Soldado Merc, 7356, 2393, 1594, 5713, 5713, 8719) Targetbackup(Batorero Inf, 5713, 3398, 1261, 7356, 5713, 7355) Target(Batorero Inf, 5713, 3398, 1261, 5713, 5713, 7355)
+	index:21645 nome:Dracorich 
+	index:16831 nome:Basilisco 
+	index:16087 nome:Basilisco 
+	index:16830 nome:Basilisco Ifrit 
+	index:14390 nome:Dracorich 
+	index:14389 nome:Draco Lich 
+	index:1995 nome:Basilisco 
+	index:2000 nome:Dracorich 
+	index:21915 nome:Draco Lich 
+	index:24316 nome:Basilisco 
+	index:21646 nome:Basilisco 
+	index:24315 nome:Basilisco Ifrit 
+	index:7356 nome:Soldado Merc 
+	index:8719 nome:Basilisco Ifrit 
+	index:1994 nome:Basilisco 
+	index:7349 nome:Soldado Merc 
+	index:1983 nome:Cap.Explor. 
+Attacker(Guarda do Rei, 10448, 1702, 1826, 9768, 9768, 10449) Targetbackup(Basilisco, 9768, 2401, 1595, 10448, 9768, 0) Target(Basilisco, 9768, 2401, 1595, 9768, 9768, 0)
+	index:10236 nome:Feiticeira  
+	index:16853 nome:Averest  
+	index:17335 nome:Averest  
+	index:16931 nome:Averest  
+	index:16854 nome:Feiticeira  
+	index:3365 nome:Averest  
+	index:17008 nome:Averest  
+	index:17214 nome:Guarda do Rei 
+	index:9456 nome:Averest  
+	index:10448 nome:Guarda do Rei 
+	index:10449 nome:Feiticeira  
+	index:3368 nome:Feiticeira  
+	index:3367 nome:Guarda do Rei  
+	index:10235 nome:Guarda do Rei 
+	index:10389 nome:Guarda do Rei  
+	index:15838 nome:Averest  
+	index:10390 nome:Feiticeira  
+	index:3373 nome:Bardes 
+Attacker(Torre  , 10564, 1082, 1710, 7, 7, 9) Targetbackup(Maldito, 7, 2114, 2130, 10564, 7, 10) Target(Maldito, 7, 2114, 2130, 7, 7, 10)
+	index:10564 nome:Torre   
+	index:4 nome:CRAZY 
+	index:9 nome:-OlhaOTchan 
+Attacker(Soldado Merc, 10998, 2386, 1596, 9, 9, 21645) Targetbackup(-OlhaOTchan, 9, 1070, 1723, 10998, 9, 10890) Target(-OlhaOTchan, 9, 1070, 1723, 9, 9, 10890)
+	index:14390 nome:Dracorich 
+	index:16831 nome:Basilisco 
+	index:24315 nome:Basilisco Ifrit 
+	index:14389 nome:Draco Lich 
+	index:17645 nome:Basilisco Ifrit 
+	index:1994 nome:Basilisco 
+	index:16830 nome:Basilisco Ifrit 
+	index:21646 nome:Basilisco 
+	index:14062 nome:Dracorich 
+	index:10997 nome:Soldado Merc 
+	index:21645 nome:Dracorich 
+	index:24316 nome:Basilisco 
+	index:10998 nome:Soldado Merc 
+Attacker(Soldado Merc, 12025, 2393, 1593, 2, 2, 21915) Targetbackup(SoEu, 2, 2135, 2149, 12025, 2, 5) Target(SoEu, 2, 2135, 2149, 2, 2, 5)
+	index:21646 nome:Basilisco 
+	index:17645 nome:Basilisco Ifrit 
+	index:1990 nome:Basilisco Ifrit 
+	index:14061 nome:Basilisco Ifrit 
+	index:2000 nome:Dracorich 
+	index:14390 nome:Dracorich 
+	index:14389 nome:Draco Lich 
+	index:16831 nome:Basilisco 
+	index:24316 nome:Basilisco 
+	index:16830 nome:Basilisco Ifrit 
+	index:21915 nome:Draco Lich 
+	index:12025 nome:Soldado Merc 
+	index:14062 nome:Dracorich 
+	index:12026 nome:Soldado Merc 
+	index:24315 nome:Basilisco Ifrit 
+	index:1994 nome:Basilisco 
+	index:1995 nome:Basilisco 
+	index:1983 nome:Cap.Explor. 
+Attacker(Soldado Merc, 12026, 2391, 1595, 2, 2, 24315) Targetbackup(SoEu, 2, 2135, 2149, 12026, 2, 5) Target(SoEu, 2, 2135, 2149, 2, 2, 5)
+	index:1990 nome:Basilisco Ifrit 
+	index:14061 nome:Basilisco Ifrit 
+	index:2000 nome:Dracorich 
+	index:14390 nome:Dracorich 
+	index:14389 nome:Draco Lich 
+	index:16831 nome:Basilisco 
+	index:24316 nome:Basilisco 
+	index:16830 nome:Basilisco Ifrit 
+	index:21915 nome:Draco Lich 
+	index:12025 nome:Soldado Merc 
+	index:14062 nome:Dracorich 
+	index:12026 nome:Soldado Merc 
+	index:24315 nome:Basilisco Ifrit 
+	index:1994 nome:Basilisco 
+	index:1995 nome:Basilisco 
+	index:1983 nome:Cap.Explor. 
+	index:12024 nome:Soldado Merc 
+Attacker(Soldado Merc, 14202, 2392, 1592, 6, 6, 16830) Targetbackup(testedocrazy, 6, 2127, 2141, 14202, 6, 2) Target(testedocrazy, 6, 2127, 2141, 6, 6, 2)
+	index:14061 nome:Basilisco Ifrit 
+	index:24315 nome:Basilisco Ifrit 
+	index:9768 nome:Basilisco 
+	index:14203 nome:Soldado Merc 
+	index:16831 nome:Basilisco 
+	index:16830 nome:Basilisco Ifrit 
+	index:13083 nome:Dracorich 
+	index:14202 nome:Soldado Merc 
+	index:14390 nome:Dracorich 
+	index:14062 nome:Dracorich 
+	index:1995 nome:Basilisco 
+	index:1994 nome:Basilisco 
+	index:24316 nome:Basilisco 
+	index:1983 nome:Cap.Explor. 
+Attacker(Soldado Merc, 14374, 2391, 1591, 1, 1, 16831) Targetbackup([ADM]_CRAZY, 1, 2188, 2110, 14374, 1, 10890) Target([ADM]_CRAZY, 1, 2188, 2110, 1, 1, 10890)
+	index:10150 nome:Basilisco Ifrit 
+	index:14774 nome:Draco Lich 
+	index:8719 nome:Basilisco Ifrit 
+	index:16087 nome:Basilisco 
+	index:14062 nome:Dracorich 
+	index:21646 nome:Basilisco 
+	index:14389 nome:Draco Lich 
+	index:14390 nome:Dracorich 
+	index:14375 nome:Soldado Merc 
+	index:24315 nome:Basilisco Ifrit 
+	index:24316 nome:Basilisco 
+	index:13082 nome:Draco Lich 
+	index:16830 nome:Basilisco Ifrit 
+	index:17645 nome:Basilisco Ifrit 
+	index:14374 nome:Soldado Merc 
+	index:21916 nome:Basilisco 
+	index:13083 nome:Dracorich 
+	index:9768 nome:Basilisco 
+	index:16831 nome:Basilisco 
+	index:14775 nome:Basilisco 
+	index:21645 nome:Dracorich 
+	index:1995 nome:Basilisco 
+	index:1994 nome:Basilisco 
+	index:1983 nome:Cap.Explor. 
+	index:14373 nome:Soldado Merc 
+Attacker(Soldado Merc, 19621, 2391, 1591, 2, 2, 16831) Targetbackup(Dougras, 2, 2129, 2143, 19621, 2, 26) Target(Dougras, 2, 2129, 2143, 2, 2, 26)
+	index:10150 nome:Basilisco Ifrit 
+	index:21645 nome:Dracorich 
+	index:9768 nome:Basilisco 
+	index:14061 nome:Basilisco Ifrit 
+	index:16087 nome:Basilisco 
+	index:13082 nome:Draco Lich 
+	index:14389 nome:Draco Lich 
+	index:19623 nome:Soldado Merc 
+	index:14390 nome:Dracorich 
+	index:24316 nome:Basilisco 
+	index:24315 nome:Basilisco Ifrit 
+	index:16831 nome:Basilisco 
+	index:13083 nome:Dracorich 
+	index:19621 nome:Soldado Merc 
+	index:21916 nome:Basilisco 
+	index:14775 nome:Basilisco 
+	index:17645 nome:Basilisco Ifrit 
+	index:19622 nome:Soldado Merc 
+	index:14062 nome:Dracorich 
+	index:19624 nome:Soldado Merc 
+	index:1983 nome:Cap.Explor. 
+Attacker(Soldado Merc, 21015, 2393, 1593, 8719, 8719, 16831) Targetbackup(Basilisco Ifrit, 8719, 2399, 1562, 21015, 8719, 0) Target(Basilisco Ifrit, 8719, 2399, 1562, 8719, 8719, 0)
+	index:13083 nome:Dracorich 
+	index:9768 nome:Basilisco 
+	index:24315 nome:Basilisco Ifrit 
+	index:21646 nome:Basilisco 
+	index:10150 nome:Basilisco Ifrit 
+	index:14775 nome:Basilisco 
+	index:14061 nome:Basilisco Ifrit 
+	index:16087 nome:Basilisco 
+	index:14390 nome:Dracorich 
+	index:14389 nome:Draco Lich 
+	index:16831 nome:Basilisco 
+	index:21015 nome:Soldado Merc 
+	index:14062 nome:Dracorich 
+	index:21016 nome:Soldado Merc 
+	index:21017 nome:Soldado Merc 
+	index:24316 nome:Basilisco 
+	index:21018 nome:Soldado Merc 
+	index:1983 nome:Cap.Explor. 
+Attacker(Tigre^, 9053, 2131, 2148, 5, 5, 6) Targetbackup(Cavalinho-, 5, 2088, 2148, 9053, 5, 6) Target(Cavalinho-, 5, 2088, 2148, 5, 5, 6)
+	index:3788 nome:Gate Keeper 
+	index:10 nome:-OlhaAOnda 
+	index:9053 nome:Tigre^ 
+	index:9054 nome:Tigre^ 
+	index:9055 nome:Tigre^ 
+	index:8996 nome:Tigre^ 
+	index:8997 nome:Tigre^ 
+	index:8998 nome:Tigre^ 
+	index:9056 nome:Tigre^ 
+	index:3 nome:N3R0 
+	index:9057 nome:Tigre^ 
+	index:8999 nome:Tigre^ 
+	index:6 nome:MiOjOoO 
+	index:9000 nome:Tigre^ 
+	index:3790 nome:Martin 
+	index:1 nome:ETAPORRA 
+Attacker(Soldado Merc, 11733, 2386, 1596, 6, 6, 21646) Targetbackup(MiOjOoO, 6, 2467, 2018, 11733, 6, 5) Target(MiOjOoO, 6, 2467, 2018, 6, 6, 5)
+	index:1994 nome:Basilisco 
+	index:14389 nome:Draco Lich 
+	index:13083 nome:Dracorich 
+	index:21915 nome:Draco Lich 
+	index:9564 nome:Basilisco Ifrit 
+	index:21527 nome:Basilisco 
+	index:24316 nome:Basilisco 
+	index:21526 nome:Basilisco Ifrit 
+	index:21646 nome:Basilisco 
+	index:24315 nome:Basilisco Ifrit 
+	index:1995 nome:Basilisco 
+	index:11733 nome:Soldado Merc 
+	index:11735 nome:Soldado Merc 
+	index:11734 nome:Soldado Merc 
+	index:1983 nome:Cap.Explor. 
+	index:11736 nome:Soldado Merc 
+Attacker(Soldado Merc, 11970, 2392, 1593, 7, 7, 21916) Targetbackup(TheSkooLLBR, 7, 2509, 1724, 11970, 7, 3) Target(TheSkooLLBR, 7, 2509, 1724, 7, 7, 3)
+	index:9564 nome:Basilisco Ifrit 
+	index:13083 nome:Dracorich 
+	index:14062 nome:Dracorich 
+	index:8719 nome:Basilisco Ifrit 
+	index:9563 nome:Draco Lich 
+	index:24316 nome:Basilisco 
+	index:24315 nome:Basilisco Ifrit 
+	index:16087 nome:Basilisco 
+	index:21527 nome:Basilisco 
+	index:21526 nome:Basilisco Ifrit 
+	index:14389 nome:Draco Lich 
+	index:10150 nome:Basilisco Ifrit 
+	index:21915 nome:Draco Lich 
+	index:13082 nome:Draco Lich 
+	index:21916 nome:Basilisco 
+	index:21646 nome:Basilisco 
+	index:11970 nome:Soldado Merc 
+	index:14390 nome:Dracorich 
+	index:1995 nome:Basilisco 
+	index:1994 nome:Basilisco 
+	index:1983 nome:Cap.Explor. 
+	index:11971 nome:Soldado Merc 
+Attacker(Tigre^, 12217, 2126, 2142, 9768, 9768, 11) Targetbackup(Basilisco, 9768, 2401, 1571, 12217, 9768, 0) Target(Basilisco, 9768, 2401, 1571, 9768, 9768, 0)
+	index:3789 nome:Gate Keeper 
+	index:3788 nome:Gate Keeper 
+	index:2 nome:-Allen- 
+	index:12214 nome:Tigre^ 
+	index:12215 nome:Tigre^ 
+	index:12216 nome:Tigre^ 
+	index:12217 nome:Tigre^ 
+	index:6 nome:MiOjOoO 
+	index:12218 nome:Tigre^ 
+	index:12219 nome:Tigre^ 
+	index:13 nome:Skollz 
+	index:11 nome:ManSeVy 
+	index:1 nome:ETAPORRA 
+	index:3790 nome:Martin 
+Attacker(Guarda do Rei, 15156, 1708, 1826, 17, 17, 14849) Targetbackup(Erroc404, 17, 2127, 2142, 15156, 17, 6) Target(Erroc404, 17, 2127, 2142, 17, 17, 6)
+	index:11049 nome:Averest  
+	index:19171 nome:Bruxa  
+	index:20287 nome:Bruxa  
+	index:10714 nome:Feiticeira  
+	index:22015 nome:Bruxa  
+	index:22014 nome:Combatente  
+	index:20286 nome:Combatente  
+	index:19170 nome:Combatente  
+	index:14253 nome:Guarda do Rei 
+	index:16854 nome:Feiticeira  
+	index:3365 nome:Averest  
+	index:16853 nome:Averest  
+	index:14366 nome:Averest  
+	index:17335 nome:Averest  
+	index:14892 nome:Feiticeira  
+	index:14891 nome:Guarda do Rei 
+	index:14849 nome:Guarda do Rei  
+	index:15156 nome:Guarda do Rei 
+	index:15157 nome:Feiticeira  
+	index:14945 nome:Guarda do Rei 
+	index:14983 nome:Averest  
+	index:3368 nome:Feiticeira  
+Attacker(Draco Lich, 16353, 2394, 1592, 3, 3, 16286) Targetbackup(-BriToLA, 3, 2130, 2149, 16353, 3, 5) Target(-BriToLA, 3, 2130, 2149, 3, 3, 5)
+	index:21916 nome:Basilisco 
+	index:14061 nome:Basilisco Ifrit 
+	index:16087 nome:Basilisco 
+	index:14390 nome:Dracorich 
+	index:24316 nome:Basilisco 
+	index:1995 nome:Basilisco 
+	index:21526 nome:Basilisco Ifrit 
+	index:21527 nome:Basilisco 
+	index:16286 nome:Soldado Merc 
+	index:13083 nome:Dracorich 
+	index:16353 nome:Draco Lich 
+	index:14775 nome:Basilisco 
+	index:16354 nome:Dracorich 
+	index:8719 nome:Basilisco Ifrit 
+	index:14062 nome:Dracorich 
+	index:1994 nome:Basilisco 
+	index:24315 nome:Basilisco Ifrit 
+	index:16287 nome:Soldado Merc 
+	index:1983 nome:Cap.Explor. 
+Attacker(Dracorich, 16354, 2395, 1593, 3, 3, 16286) Targetbackup(-BriToLA, 3, 2130, 2149, 16354, 3, 5) Target(-BriToLA, 3, 2130, 2149, 3, 3, 5)
+	index:14061 nome:Basilisco Ifrit 
+	index:16087 nome:Basilisco 
+	index:21916 nome:Basilisco 
+	index:14390 nome:Dracorich 
+	index:24316 nome:Basilisco 
+	index:1995 nome:Basilisco 
+	index:21526 nome:Basilisco Ifrit 
+	index:21527 nome:Basilisco 
+	index:16286 nome:Soldado Merc 
+	index:13083 nome:Dracorich 
+	index:16353 nome:Draco Lich 
+	index:14775 nome:Basilisco 
+	index:16354 nome:Dracorich 
+	index:8719 nome:Basilisco Ifrit 
+	index:14062 nome:Dracorich 
+	index:1994 nome:Basilisco 
+	index:24315 nome:Basilisco Ifrit 
+	index:16287 nome:Soldado Merc 
+	index:1983 nome:Cap.Explor. 
+Attacker(Soldado Merc, 4467, 2391, 1593, 20955, 20955, 13971) Targetbackup(Basilisco Ifrit, 20955, 2393, 1568, 4467, 20955, 0) Target(Basilisco Ifrit, 20955, 2393, 1568, 20955, 20955, 0)
+	index:22575 nome:Basilisco 
+	index:14823 nome:Basilisco Ifrit 
+	index:13972 nome:Basilisco 
+	index:24327 nome:Draco Lich 
+	index:22574 nome:Dracorich 
+	index:4468 nome:Soldado Merc 
+	index:24328 nome:Basilisco 
+	index:13971 nome:Basilisco Ifrit 
+	index:1999 nome:Basilisco 
+	index:20956 nome:Basilisco 
+	index:4467 nome:Soldado Merc 
+	index:24783 nome:Dracorich 
+	index:2000 nome:Basilisco 
+	index:1988 nome:Cap.Explor. 
+Attacker(Soldado Merc, 15126, 2393, 1595, 14636, 14636, 14084) Targetbackup(Arqueiro Elfo, 14636, 3420, 1620, 15126, 14636, 15345) Target(Arqueiro Elfo, 14636, 3420, 1620, 14636, 14636, 15345)
+	index:13468 nome:Basilisco Ifrit 
+	index:24782 nome:Basilisco Ifrit 
+	index:24328 nome:Basilisco 
+	index:14495 nome:Draco Lich 
+	index:24327 nome:Draco Lich 
+	index:23111 nome:Dracorich 
+	index:1995 nome:Basilisco Ifrit 
+	index:2004 nome:Draco Lich 
+	index:15127 nome:Soldado Merc 
+	index:22575 nome:Basilisco 
+	index:15856 nome:Basilisco 
+	index:1999 nome:Basilisco 
+	index:23112 nome:Basilisco 
+	index:14085 nome:Basilisco 
+	index:15855 nome:Basilisco Ifrit 
+	index:15126 nome:Soldado Merc 
+	index:15128 nome:Soldado Merc 
+	index:14084 nome:Basilisco Ifrit 
+	index:2000 nome:Basilisco 
+	index:13469 nome:Dracorich 
+	index:18434 nome:Basilisco 
+	index:1988 nome:Cap.Explor. 
+	index:15124 nome:Soldado Merc 

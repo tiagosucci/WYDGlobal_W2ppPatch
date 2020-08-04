@@ -1,0 +1,160 @@
+FFFFAA << O segredo runico >>
+FFFFFF 
+FFFFFF 
+FFFFFF
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Destrave do level 40 >>
+FFFFFF 
+FFFFFF Como destravar o personagem celestial level 40?
+FFFFFF É bem simples, você deve ir até o
+AAFFFF NPC Alquimista Odin no continente desconhecido
+AAFFFF Coordenadas :  X: 3236 Y: 1690
+FFFFFF 
+FFFFFF Itens requeridos:
+FFFFFF x02 Pergaminho Selado
+FFFFFF x01 Selo Mágico
+FFFFFF x04 Runas (Fehu, Mannaz, Thurizas and Anzus)
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Destrave do level 90 >>
+FFFFFF 
+FFFFFF Como destravar o personagem celestial level 90?
+FFFFFF É bem simples, você irá precisar dos seguintes itens:
+FFFFFF Pedra da Fúria
+FFFFFF 500 pontos de fama
+FFFFFF 
+FFFFFF Dica: A Pedra da Fúria pode ser criada no 
+AAFFFF NPC Alquimista Odin no continente desconhecido
+AAFFFF Coordenadas : X: 3236 Y: 1690 
+FFFFFF 
+FFFFFF Runas requeridas: Sowilo, Kenaz, Uraz, Thurisaz, Isa, Tiwaz, 
+FFFFFF Hagalaz
+FFFFFF 
+FFFFFF Você pode obter fama com o item Selo do Guerreiro a venda no
+AAFFFF NPC Farche em Erion 
+AAFFFF Coordenadas : X: 2467 Y: 2004
+FFFFFF ou
+AAFFFF no NPC Creta no continente desconhecido
+AAFFFF coordenadas X: 3265 Y: 1707 
+FFFFAA << Destrave do level 200 >>
+FFFFFF 
+FFFFFF 
+FFFFFF
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Destrave do level 240 >>
+FFFFFF 
+FFFFFF Como destravar o personagem celestial level 240?
+FFFFFF Você deve destrava-lo utilizando o item Proteção Divina.
+FFFFFF 
+FFFFFF O item Proteção Divina pode ser criado no NPC Dedekinto
+AAFFFF NPC Dedekinto está localizado no continente desconhecido.
+AAFFFF coordenadas : X: 3229 Y: 1697
+FFFFFF 
+FFFFFF Materiais necessarios para o selo: Coração de Beriel (x02) + Alma do Beriel (x02) 
+FFFFFF Item da combinação do selo: Proteção Divina
+FFFFFF (Use com o botão direito, haverá uma chance do selo ser removido.)
+FFFFFF Combinação do selo (2): The Devil Whisper  
+FFFFFF (Use com o botão direito do mouse)
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Destrave do level 280 >>
+FFFFFF 
+FFFFFF Como destravar o personagem celestial level 280?
+FFFFFF Você deve destrava-lo utilizando o item Proteção Divina.
+FFFFFF 
+FFFFFF O item Proteção Divina pode ser criado no NPC Dedekinto
+AAFFFF NPC Dedekinto está localizado no continente desconhecido.
+AAFFFF coordenadas : X: 3229 Y: 1697
+FFFFFF 
+FFFFFF Materiais necessarios para o selo: Coração de Beriel (x02) + Alma do Beriel (x02) 
+FFFFFF Item da combinação do selo: Proteção Divina
+FFFFFF (Use com o botão direito, haverá uma chance do selo ser removido.)
+FFFFFF Combinação do selo (2): The Devil Whisper  
+FFFFFF (Use com o botão direito do mouse)
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Destrave do level 320 >>
+FFFFFF 
+FFFFFF Como destravar o personagem celestial level 280?
+FFFFFF Você deve destrava-lo utilizando o item Proteção Divina.
+FFFFFF 
+FFFFFF O item Proteção Divina pode ser criado no NPC Dedekinto
+AAFFFF NPC Dedekinto está localizado no continente desconhecido.
+AAFFFF coordenadas : X: 3229 Y: 1697
+FFFFFF 
+FFFFFF Materiais necessarios para o selo: Coração de Beriel (x02) + Alma do Beriel (x02) 
+FFFFFF Item da combinação do selo: Proteção Divina
+FFFFFF (Use com o botão direito, haverá uma chance do selo ser removido.)
+FFFFFF Combinação do selo (2): The Devil Whisper  
+FFFFFF (Use com o botão direito do mouse)
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Destrave do level 360 >>
+FFFFFF 
+FFFFFF 
+FFFFFF
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
