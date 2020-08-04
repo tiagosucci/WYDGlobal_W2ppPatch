@@ -461,7 +461,13 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 		_read(handle, &g_pBaseSet[i], sizeof(STRUCT_MOB));
 		_close(handle);
 
-		g_pBaseSet[i].BaseScore = g_pBaseSet[i].CurrentScore;
+		g_pBaseSet[i].CurrentScore = g_pBaseSet[i].BaseScore;
+
+		g_pBaseSet[i].Coin = 0;
+		g_pBaseSet[i].Rsv = 0;
+		memset(&g_pBaseSet[i].LearnedSkill, 0, 244);
+
+		memset(&g_pBaseSet[i].SkillBar, -1, 0x4);
 	}
 #pragma endregion
 
@@ -1155,69 +1161,31 @@ LONG APIENTRY MainWndProc(HWND hWnd, UINT message, UINT wParam, LONG lParam)
 			case IDC_SHUTDOWNNP:
 			{
 #pragma region Load Base Characters
-
-				int handle = -1;
-
-				handle = _open("./BaseMob/TK", _O_RDONLY | _O_BINARY);
-
-				if (handle == -1)
+				char* BaseMobName[4] = { "./BaseMob/TK","./BaseMob/FM","./BaseMob/BM","./BaseMob/HT" };
+				for (int i = 0; i < 4; i++)
 				{
-					MessageBoxA(hWndMain, "no TransKnight file", "BOOTING ERROR", MB_OK);
 
-					return FALSE;
+					int handle = _open(BaseMobName[i], _O_RDONLY | _O_BINARY);
+
+					if (handle == -1)
+					{
+						MessageBoxA(hWndMain, "no BaseMobFile file", "BOOTING ERROR", MB_OK);
+
+						return FALSE;
+					}
+
+					_read(handle, &g_pBaseSet[i], sizeof(STRUCT_MOB));
+					_close(handle);
+
+					g_pBaseSet[i].CurrentScore = g_pBaseSet[i].BaseScore;
+
+					g_pBaseSet[i].Coin = 0;
+					g_pBaseSet[i].Rsv = 0;
+
+					memset(&g_pBaseSet[i].LearnedSkill, 0, 244);
+
+					memset(&g_pBaseSet[i].SkillBar, -1, 0x4);
 				}
-
-				_read(handle, &g_pBaseSet[0], sizeof(STRUCT_MOB));
-				_close(handle);
-
-
-				handle = -1;
-
-				handle = _open("./BaseMob/FM", _O_RDONLY | _O_BINARY);
-
-				if (handle == -1)
-				{
-					MessageBoxA(hWndMain, "no Foema file", "BOOTING ERROR", MB_OK);
-
-					return FALSE;
-				}
-
-				_read(handle, &g_pBaseSet[1], sizeof(STRUCT_MOB));
-				_close(handle);
-
-				handle = -1;
-
-				handle = _open("./BaseMob/BM", _O_RDONLY | _O_BINARY);
-
-				if (handle == -1)
-				{
-					MessageBoxA(hWndMain, "no BeastMaster file", "BOOTING ERROR", MB_OK);
-
-					return FALSE;
-				}
-
-				_read(handle, &g_pBaseSet[2], sizeof(STRUCT_MOB));
-				_close(handle);
-
-				handle = -1;
-
-				handle = _open("./BaseMob/HT", _O_RDONLY | _O_BINARY);
-
-				if (handle == -1)
-				{
-					MessageBoxA(hWndMain, "no Huntress file", "BOOTING ERROR", MB_OK);
-
-					return FALSE;
-				}
-
-				_read(handle, &g_pBaseSet[3], sizeof(STRUCT_MOB));
-				_close(handle);
-
-				g_pBaseSet[0].BaseScore = g_pBaseSet[0].CurrentScore;
-				g_pBaseSet[1].BaseScore = g_pBaseSet[1].CurrentScore;
-				g_pBaseSet[2].BaseScore = g_pBaseSet[2].CurrentScore;
-				g_pBaseSet[3].BaseScore = g_pBaseSet[3].CurrentScore;
-
 #pragma endregion
 			} break;
 		}
