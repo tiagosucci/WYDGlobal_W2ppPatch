@@ -121,7 +121,7 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			for (int i = 0; i < 18; i++)
 			{
 				sprintf(temp, "%d %d %d %d %d %d %d", mob->Equip[i].sIndex, mob->Equip[i].stEffect[0].cEffect, mob->Equip[i].stEffect[0].cValue, mob->Equip[i].stEffect[1].cEffect, mob->Equip[i].stEffect[1].cValue, mob->Equip[i].stEffect[2].cEffect, mob->Equip[i].stEffect[2].cValue);
-				SetDlgItemText(hWndMain, IDC_EFace + i, temp);
+				if (i < 16)SetDlgItemText(hWndMain, IDC_EFace + i, temp);
 			}
 
 
@@ -133,7 +133,7 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			SetDlgItemInt(hWndMain, IDC_EStr, mob->BaseScore.Str, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EInt, mob->BaseScore.Int, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EDex, mob->BaseScore.Dex, FALSE);
-			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, FALSE);
+			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, TRUE);
 
 			SetDlgItemInt(hWndMain, IDC_ENear, mob->BaseScore.Special[0], FALSE);
 			SetDlgItemInt(hWndMain, IDC_ENearMotion, mob->BaseScore.Special[1], FALSE);
@@ -196,9 +196,9 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 			mob->BaseScore.AttackRun = GetDlgItemInt(hWndMain, IDC_EDirection, FALSE, FALSE);
 
-			for (int i = 0; i < MAX_EQUIP; i++)
+			for (int i = 0; i < 18; i++)
 			{
-				GetDlgItemText(hWndMain, IDC_EFace + i, temp, 128);
+				if (i < 16)GetDlgItemText(hWndMain, IDC_EFace + i, temp, 128);
 				sscanf(temp, "%d %d %d %d %d %d %d", &mob->Equip[i].sIndex, &mob->Equip[i].stEffect[0].cEffect, &mob->Equip[i].stEffect[0].cValue, &mob->Equip[i].stEffect[1].cEffect, &mob->Equip[i].stEffect[1].cValue, &mob->Equip[i].stEffect[2].cEffect, &mob->Equip[i].stEffect[2].cValue);
 			}
 
@@ -215,7 +215,7 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			mob->BaseScore.Str = GetDlgItemInt(hWndMain, IDC_EStr, FALSE, FALSE);
 			mob->BaseScore.Int = GetDlgItemInt(hWndMain, IDC_EInt, FALSE, FALSE);
 			mob->BaseScore.Dex = GetDlgItemInt(hWndMain, IDC_EDex, FALSE, FALSE);
-			mob->BaseScore.Con = GetDlgItemInt(hWndMain, IDC_ECon, FALSE, FALSE);
+			mob->BaseScore.Con = GetDlgItemInt(hWndMain, IDC_ECon, FALSE, TRUE);
 
 			mob->BaseScore.Hp = GetDlgItemInt(hWndMain, IDC_EHP, FALSE, FALSE);
 			mob->BaseScore.MaxHp = GetDlgItemInt(hWndMain, IDC_EHPMax, FALSE, FALSE);
@@ -294,7 +294,7 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			for (int i = 0; i < 18; i++)
 			{
 				sprintf(temp, "%d %d %d %d %d %d %d", mob->Equip[i].sIndex, mob->Equip[i].stEffect[i].cEffect, mob->Equip[i].stEffect[i].cValue, mob->Equip[i].stEffect[1].cEffect, mob->Equip[i].stEffect[1].cValue, mob->Equip[i].stEffect[2].cEffect, mob->Equip[i].stEffect[2].cValue);
-				SetDlgItemText(hWndMain, IDC_EFace + i, temp);
+				if (i < 16)SetDlgItemText(hWndMain, IDC_EFace + i, temp);
 			}
 
 
@@ -306,7 +306,7 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			SetDlgItemInt(hWndMain, IDC_EStr, mob->BaseScore.Str, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EInt, mob->BaseScore.Int, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EDex, mob->BaseScore.Dex, FALSE);
-			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, FALSE);
+			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, TRUE);
 
 			SetDlgItemInt(hWndMain, IDC_ENear, mob->BaseScore.Special[0], FALSE);
 			SetDlgItemInt(hWndMain, IDC_ENearMotion, mob->BaseScore.Special[1], FALSE);
@@ -411,7 +411,7 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			for (int i = 0; i < 18; i++)
 			{
 				sprintf(temp, "%d %d %d %d %d %d %d", mob->Equip[i].sIndex, mob->Equip[i].stEffect[i].cEffect, mob->Equip[i].stEffect[i].cValue, mob->Equip[i].stEffect[1].cEffect, mob->Equip[i].stEffect[1].cValue, mob->Equip[i].stEffect[2].cEffect, mob->Equip[i].stEffect[2].cValue);
-				SetDlgItemText(hWndMain, IDC_EFace + i, temp);
+				if (i < 16)SetDlgItemText(hWndMain, IDC_EFace + i, temp);
 			}
 
 
@@ -423,7 +423,7 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			SetDlgItemInt(hWndMain, IDC_EStr, mob->BaseScore.Str, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EInt, mob->BaseScore.Int, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EDex, mob->BaseScore.Dex, FALSE);
-			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, FALSE);
+			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, TRUE);
 
 			SetDlgItemInt(hWndMain, IDC_ENear, mob->BaseScore.Special[0], FALSE);
 			SetDlgItemInt(hWndMain, IDC_ENearMotion, mob->BaseScore.Special[1], FALSE);

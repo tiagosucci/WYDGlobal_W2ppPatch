@@ -133,7 +133,7 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			SetDlgItemInt(hWndMain, IDC_EStr, mob->BaseScore.Str, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EInt, mob->BaseScore.Int, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EDex, mob->BaseScore.Dex, FALSE);
-			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, FALSE);
+			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, TRUE);
 
 			SetDlgItemInt(hWndMain, IDC_ENear, mob->BaseScore.Special[0], FALSE);
 			SetDlgItemInt(hWndMain, IDC_ENearMotion, mob->BaseScore.Special[1], FALSE);
@@ -215,7 +215,7 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			mob->BaseScore.Str = GetDlgItemInt(hWndMain, IDC_EStr, FALSE, FALSE);
 			mob->BaseScore.Int = GetDlgItemInt(hWndMain, IDC_EInt, FALSE, FALSE);
 			mob->BaseScore.Dex = GetDlgItemInt(hWndMain, IDC_EDex, FALSE, FALSE);
-			mob->BaseScore.Con = GetDlgItemInt(hWndMain, IDC_ECon, FALSE, FALSE);
+			mob->BaseScore.Con = GetDlgItemInt(hWndMain, IDC_ECon, FALSE, TRUE);
 
 			mob->BaseScore.Hp = GetDlgItemInt(hWndMain, IDC_EHP, FALSE, FALSE);
 			mob->BaseScore.MaxHp = GetDlgItemInt(hWndMain, IDC_EHPMax, FALSE, FALSE);
@@ -305,7 +305,7 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			SetDlgItemInt(hWndMain, IDC_EStr, mob->BaseScore.Str, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EInt, mob->BaseScore.Int, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EDex, mob->BaseScore.Dex, FALSE);
-			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, FALSE);
+			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, TRUE);
 
 			SetDlgItemInt(hWndMain, IDC_ENear, mob->BaseScore.Special[0], FALSE);
 			SetDlgItemInt(hWndMain, IDC_ENearMotion, mob->BaseScore.Special[1], FALSE);
@@ -421,7 +421,7 @@ INT_PTR CALLBACK MainDlgProc(HWND hDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			SetDlgItemInt(hWndMain, IDC_EStr, mob->BaseScore.Str, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EInt, mob->BaseScore.Int, FALSE);
 			SetDlgItemInt(hWndMain, IDC_EDex, mob->BaseScore.Dex, FALSE);
-			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, FALSE);
+			SetDlgItemInt(hWndMain, IDC_ECon, mob->BaseScore.Con, TRUE);
 
 			SetDlgItemInt(hWndMain, IDC_ENear, mob->BaseScore.Special[0], FALSE);
 			SetDlgItemInt(hWndMain, IDC_ENearMotion, mob->BaseScore.Special[1], FALSE);
