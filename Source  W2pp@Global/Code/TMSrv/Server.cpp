@@ -6822,6 +6822,11 @@ int  ReadMob(STRUCT_MOB *mob, char *dir)
 	return TRUE;
 }
 
+
+
+
+
+
 void DeleteMob(int conn, int Type)
 {
 	MSG_RemoveMob sm;

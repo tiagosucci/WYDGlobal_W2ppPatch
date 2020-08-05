@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "W2GlobalPatch", "Code\W2GlobalPatch\W2GlobalPatch.vcxproj", "{B3006EEF-D97E-4A7C-914E-DBF2EF6288EB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MobsConverter_759@763", "Code\ExpTool\ExpTool.vcxproj", "{F72A3A75-1A39-4049-967D-0E4866FE4087}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -53,6 +55,16 @@ Global
 		{B3006EEF-D97E-4A7C-914E-DBF2EF6288EB}.Release-Themida|Win32.Build.0 = Release|Win32
 		{B3006EEF-D97E-4A7C-914E-DBF2EF6288EB}.Release-Themida|x64.ActiveCfg = Release|x64
 		{B3006EEF-D97E-4A7C-914E-DBF2EF6288EB}.Release-Themida|x64.Build.0 = Release|x64
+		{F72A3A75-1A39-4049-967D-0E4866FE4087}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F72A3A75-1A39-4049-967D-0E4866FE4087}.Debug|Win32.Build.0 = Debug|Win32
+		{F72A3A75-1A39-4049-967D-0E4866FE4087}.Debug|x64.ActiveCfg = Debug|Win32
+		{F72A3A75-1A39-4049-967D-0E4866FE4087}.Release|Win32.ActiveCfg = Release|Win32
+		{F72A3A75-1A39-4049-967D-0E4866FE4087}.Release|Win32.Build.0 = Release|Win32
+		{F72A3A75-1A39-4049-967D-0E4866FE4087}.Release|x64.ActiveCfg = Release|Win32
+		{F72A3A75-1A39-4049-967D-0E4866FE4087}.Release-Themida|Win32.ActiveCfg = Release|Win32
+		{F72A3A75-1A39-4049-967D-0E4866FE4087}.Release-Themida|Win32.Build.0 = Release|Win32
+		{F72A3A75-1A39-4049-967D-0E4866FE4087}.Release-Themida|x64.ActiveCfg = Release|Win32
+		{F72A3A75-1A39-4049-967D-0E4866FE4087}.Release-Themida|x64.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
