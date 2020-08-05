@@ -46,7 +46,7 @@ struct STRUCT_MOB_W2PP
 	STRUCT_SCORE_W2PP   BaseScore;    // The base score of the mob 
 	STRUCT_SCORE_W2PP   CurrentScore; // The score the mob actually has
 
-	STRUCT_ITEM    Equip[MAX_EQUIP];	 // The items the mob is wearing
+	STRUCT_ITEM    Equip[16];	 // The items the mob is wearing
 	STRUCT_ITEM	   Carry[MAX_CARRY];	 // The items the mob is carrying
 
 	long LearnedSkill; // The skills the mob learned, divided into four categories (00 _ 00 _ 00 _ 00)
@@ -164,7 +164,7 @@ struct STRUCT_MOB_763
 	STRUCT_SCORE_763   BaseScore;    // The base score of the mob 
 	STRUCT_SCORE_763   CurrentScore; // The score the mob actually has
 
-	STRUCT_ITEM    Equip[MAX_EQUIP];	 // The items the mob is wearing
+	STRUCT_ITEM    Equip[18];	 // The items the mob is wearing
 	STRUCT_ITEM	   Carry[MAX_CARRY];	 // The items the mob is carrying
 
 	long LearnedSkill; // The skills the mob learned, divided into four categories (00 _ 00 _ 00 _ 00)
