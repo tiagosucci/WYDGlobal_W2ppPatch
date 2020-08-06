@@ -827,7 +827,10 @@ void Exec_MSG_Attack(int conn, char *pMsg)
 					else if (instancevalue == 8)
 						summons = 1;
 
-					if (GenerateSummon(conn, instancevalue - 1, 0, summons) == 0)
+
+					STRUCT_ITEM Item;
+					BASE_ClearItem(&Item);
+					if (GenerateSummon(conn, instancevalue - 1, &Item, summons) == 0)
 					{
 						pMob[conn].MOB.CurrentScore.Mp = Mp;
 						pUser[conn].ReqMp = ReqMp;
