@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EDITAPPMOB", "Code\EDITAPPM
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EDITAPPSHOP", "Code\EDITAPPSHOP\EDITAPPSHOP.vcxproj", "{395FF0A1-9E2F-44CB-AFC6-86E9396D04E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NPTool", "Code\NPTool\NPTool.vcxproj", "{66732FA2-A35E-4A78-B415-0E0DA1285D84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -89,6 +91,16 @@ Global
 		{395FF0A1-9E2F-44CB-AFC6-86E9396D04E7}.Release-Themida|Win32.Build.0 = Release|Win32
 		{395FF0A1-9E2F-44CB-AFC6-86E9396D04E7}.Release-Themida|x64.ActiveCfg = Release|Win32
 		{395FF0A1-9E2F-44CB-AFC6-86E9396D04E7}.Release-Themida|x64.Build.0 = Release|Win32
+		{66732FA2-A35E-4A78-B415-0E0DA1285D84}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66732FA2-A35E-4A78-B415-0E0DA1285D84}.Debug|Win32.Build.0 = Debug|Win32
+		{66732FA2-A35E-4A78-B415-0E0DA1285D84}.Debug|x64.ActiveCfg = Debug|Win32
+		{66732FA2-A35E-4A78-B415-0E0DA1285D84}.Release|Win32.ActiveCfg = Release|Win32
+		{66732FA2-A35E-4A78-B415-0E0DA1285D84}.Release|Win32.Build.0 = Release|Win32
+		{66732FA2-A35E-4A78-B415-0E0DA1285D84}.Release|x64.ActiveCfg = Release|Win32
+		{66732FA2-A35E-4A78-B415-0E0DA1285D84}.Release-Themida|Win32.ActiveCfg = Release|Win32
+		{66732FA2-A35E-4A78-B415-0E0DA1285D84}.Release-Themida|Win32.Build.0 = Release|Win32
+		{66732FA2-A35E-4A78-B415-0E0DA1285D84}.Release-Themida|x64.ActiveCfg = Release|Win32
+		{66732FA2-A35E-4A78-B415-0E0DA1285D84}.Release-Themida|x64.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
