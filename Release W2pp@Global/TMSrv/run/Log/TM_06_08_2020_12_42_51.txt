@@ -1,0 +1,56 @@
+[06/08/2020][12:42:54]  -system sys,start server 
+[06/08/2020][12:42:54]  -system err, Reading Guild error - Guild counter zero 
+[06/08/2020][12:42:56] IP: 192.168.0.103 ADMIN CNFAccountLogin Mac: -271216030.113987390.-1693738811.1456405556 
+[06/08/2020][12:43:02] IP: 192.168.0.103 ADMIN sta,Login char:TesteBM exp:0 level:1010 conn:1 money:2000000000, store:0 
+[06/08/2020][12:43:02]  ADMIN etc,changecity city:0 X:2088 Y:2096 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 62 2214 2063 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 134 2274 2151 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 152 2277 2067 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 229 2324 2152 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 442 2488 2052 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 897 2615 2069 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1006 2369 1744 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1118 2336 1596 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1206 2194 1688 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1227 2268 1736 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1250 2257 1622 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1274 1998 1601 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1276 2018 1578 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1285 2004 1558 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1298 1981 1622 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1368 1962 1718 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1401 1884 1677 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1542 2244 1302 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1556 2274 1254 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1866 326 3764 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1893 337 3803 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 1924 428 3752 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid: 1949 458 3740 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 2019 596 3772 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 2048 664 3768 
+[06/08/2020][12:43:06]  -system err,No empty mobgrid(1): 2086 749 3809 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 2287 1003 4005 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 2620 1048 3754 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 2646 1125 3785 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 2880 1215 3994 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 2881 1216 4002 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 2938 1359 4073 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3051 1396 3790 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3486 491 3888 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3514 1317 4042 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3840 801 4056 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3850 2122 1629 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3856 2055 1627 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3858 2070 1613 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3862 2121 1606 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3864 2138 1625 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid: 3865 2049 1617 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3868 2073 1595 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3871 2108 1594 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3872 2116 1596 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid: 3876 2157 1561 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3878 2139 1584 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3887 2061 1551 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3888 2079 1552 
+[06/08/2020][12:43:07]  -system err,No empty mobgrid(1): 3889 2100 1552 
+[06/08/2020][12:43:07]  -system err,No em

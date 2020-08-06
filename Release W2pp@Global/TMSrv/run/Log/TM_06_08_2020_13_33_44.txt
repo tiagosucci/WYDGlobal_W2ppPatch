@@ -1,0 +1,56 @@
+[06/08/2020][13:33:48]  -system sys,start server 
+[06/08/2020][13:33:48]  -system err, Reading Guild error - Guild counter zero 
+[06/08/2020][13:33:58] IP: 192.168.0.103 ADMIN clo,fd 2-0 
+[06/08/2020][13:33:58] IP: 192.168.0.103 ADMIN CNFAccountLogin Mac: -271216030.113987390.-1693738811.1456405556 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 30 2180 2082 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 74 2195 2140 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 261 2344 2158 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 337 2322 2218 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 576 2458 1949 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid: 795 2506 1837 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 816 2492 1812 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 819 2518 1809 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1118 2335 1594 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1138 2310 1568 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1230 2251 1735 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1274 2002 1598 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1401 1885 1678 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1774 185 3758 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1821 246 3749 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1846 320 3809 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1871 319 3744 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1924 428 3753 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1935 425 3784 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1945 462 3758 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1963 496 3812 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 1972 400 3824 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 2069 707 3771 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 2115 458 3878 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 2167 432 3948 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 2239 412 4066 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 2287 1003 4006 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 2307 952 4001 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 2356 860 4047 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 2544 917 3803 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 2608 1070 3737 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 2670 2409 2194 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 2864 1189 4049 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3070 1403 3752 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3114 1466 3757 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3850 2123 1630 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3851 2106 1637 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid: 3853 2086 1634 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3857 2067 1628 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3865 2050 1618 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3869 2082 1596 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3871 2108 1596 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3872 2120 1595 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3880 2087 1563 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3888 2080 1550 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3891 2133 1551 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3892 2150 1552 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 3901 2000 1574 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 5682 3402 1617 
+[06/08/2020][13:34:00]  -system err,No empty mobgrid(1): 5971 3388 1088 
+[06/08/2020][13:34:04] IP: 192.168.0.103 ADMIN sta,Login char:xcvxcv exp:0 level:400 conn:1 money:2000000000, store:0 
+[06/08/2020][13:34:04]  ADMIN etc,changecity city:0 X:2098

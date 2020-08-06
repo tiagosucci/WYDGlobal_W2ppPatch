@@ -2791,6 +2791,10 @@ int GenerateSummon(int conn, int SummonID, STRUCT_ITEM *sItem, int Num)
 			pMob[MobEmpty].MOB.BaseScore.Hp = sItem->stEffect[0].sValue;
 			pMob[MobEmpty].MOB.CurrentScore.Hp = pMob[MobEmpty].MOB.BaseScore.Hp;
 		}
+
+		if (pMob[MobEmpty].MOB.CurrentScore.Hp == 0 && pMob[MobEmpty].MOB.CurrentScore.MaxHp)
+			pMob[MobEmpty].MOB.CurrentScore.Hp = pMob[MobEmpty].MOB.CurrentScore.MaxHp;
+		 
 		MSG_CreateMob sm;
 		memset(&sm, 0, sizeof(MSG_CreateMob));
 
@@ -2830,6 +2834,8 @@ int GenerateSummon(int conn, int SummonID, STRUCT_ITEM *sItem, int Num)
 
 		if (SummonID >= 0 && SummonID <= 7)
 			pMob[MobEmpty].IsSummon = 2; // Evocações
+
+
 	}
 
 
@@ -6817,7 +6823,15 @@ int  ReadMob(STRUCT_MOB *mob, char *dir)
 
 	BASE_GetEnglish(mob->MobName);
 
+	if (mob->CurrentScore.Hp <= 0 || mob->CurrentScore.Hp > MAX_HP)
+	{
+		mob->CurrentScore.Hp = 1000;
+		printf("HP ERROR");
+	}
+
 	mob->BaseScore = mob->CurrentScore;
+
+	
 
 	return TRUE;
 }

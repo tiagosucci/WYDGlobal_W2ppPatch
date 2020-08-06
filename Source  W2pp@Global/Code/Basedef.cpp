@@ -6532,8 +6532,6 @@ int  BASE_VisualItemCode(STRUCT_ITEM *Item, int mnt)
 		else if(Item->stEffect[2].cEffect >= 116 && Item->stEffect[2].cEffect <= 125)
 				return Item->sIndex | (12 * 0x1000);
 
-		else
-			return Item->sIndex;
 	}
 
 	if (value < 230)

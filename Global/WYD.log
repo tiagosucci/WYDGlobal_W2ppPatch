@@ -1,8 +1,9 @@
 --------------------------------------------------------------------------
 >>> Logging System turn on.
 >>> mark 
-08/04 14:37:02 - VertexShader HW Accel Enabled
-08/04 14:37:02 - Error in Init Render Target Texture
-08/04 14:37:22 - >> New Field Scene
-08/04 14:37:22 - >> Init Field Scene::Start
-08/04 14:37:23 - >> Init Field Scene::End
+08/06 11:43:20 - VertexShader HW Accel Enabled
+08/06 11:43:20 - Error in Init Render Target Texture
+08/06 11:43:35 - >> New Field Scene
+08/06 11:43:35 - >> Init Field Scene::Start
+08/06 11:43:35 - >> Init Field Scene::End
+08/06 11:43:41 - Invalide Item Class
